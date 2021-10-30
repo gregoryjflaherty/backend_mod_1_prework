@@ -39,3 +39,5 @@ dinner.remove_topping("cheese")
 p dinner.toppings
 dinner.change_protein("Chicken")
 p dinner.protein
+
+#Code has been refactored

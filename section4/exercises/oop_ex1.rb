@@ -9,3 +9,5 @@ class Quarterback
   include Scramble
 end
 p_rivers = Quarterback.new
+
+#Code has been refactored

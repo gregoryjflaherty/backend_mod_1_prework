@@ -40,3 +40,5 @@ first_lease.speed_up(35)
 first_lease.brake(20)
 first_lease.shut_off
 first_lease.spray_paint("Silver")
+
+#Code has been refactored

@@ -3,16 +3,16 @@
 # to the terminal that show the methods in action.
 
 class Person
-  attr_accessor :name, :occupancy, :net_worth
+  attr_accessor :name, :job, :net_worth
 
-  def initialize(name, occupancy, net_worth)
+  def initialize(name, job, net_worth)
     @name = name
-    @occupancy = occupancy
+    @job = job
     @net_worth = net_worth
   end
 
   def change_job(new_job)
-    @occupancy = new_job
+    @job = new_job
     puts "#{@name} now works as a #{new_job}"
   end
 
@@ -24,9 +24,11 @@ end
 
 gregory = Person.new("Gregory", "counselor", 0)
 p gregory.name
-p gregory.occupancy
+p gregory.job
 p gregory.net_worth
 gregory.change_job("programmer")
-p gregory.occupancy
+p gregory.job
 gregory.make_money(1000)
 p gregory.net_worth
+
+#Code has been refactored

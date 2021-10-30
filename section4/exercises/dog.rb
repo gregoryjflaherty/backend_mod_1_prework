@@ -35,3 +35,5 @@ fido.eat
 p fido.hungry
 p fido.play
 p fido.hungry
+
+#Code has been refactored
