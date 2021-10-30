@@ -24,3 +24,5 @@ elements = []
 end
 
 elements.each {|i| puts "Element was: #{i}"}
+
+#Code has been refactored 

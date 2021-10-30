@@ -96,7 +96,7 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 open_bets = ["NY -3", "LAC -6.5", "CIN +8"]
 # An array would be used for a sports betting website where a user has bets that they have placed
 # which have yet to occur. This is called their 'open bets'. This list could be zero, a large number,
-# and can be added to (as the user places more bets). This list also has elements removed as the bets/games
+# and can be added to (as the user places more bets). This list can also have elements removed as the bets/games
 # take place.
 
 # 2:
@@ -108,3 +108,5 @@ fav_videos = ['Python tutorial', 'My first song', 'GOT trailer']
 # 3:
 discord_members = ['user_1', 'user_1989', 'user_21']
 # This examples shows a list/array of members who belong to a specific chat or discussion on Discord.
+
+#Code has been refactored

@@ -118,7 +118,7 @@ emails = [
     time_sent: "10:09 AM September 1st, 2021",
     is_new_sender: false,
     is_read: true,
-    is_replied: true
+    has_replied: true
   },
   {
     sender: "quarterback@broncos.com",
@@ -126,7 +126,7 @@ emails = [
     time_sent: "12:05 AM September 30th, 2021",
     is_new_sender: false,
     is_read: false,
-    is_replied: true
+    has_replied: true
   },
   {
     sender: "commissioner@nfl.com",
@@ -134,7 +134,9 @@ emails = [
     time_sent: "9:42 PM February 12, 2022",
     is_new_sender: true,
     is_read: true,
-    is_replied: true
+    has_replied: true
   }
 ]
 p emails
+
+#Code has been refactored

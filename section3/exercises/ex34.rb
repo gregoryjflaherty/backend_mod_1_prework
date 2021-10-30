@@ -11,3 +11,5 @@ p animals[4]
 
 states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}
 p states["IA"]
+
+#Code has been refactored
