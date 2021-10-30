@@ -8,14 +8,14 @@
 name = "Ron"
 team = "Chudley Cannons"
 
-p "The #{team} are #{name}'s favorite Quidditch team"
+puts "The #{team} are #{name}'s favorite Quidditch team"
 
 # Write code that uses the variables below to form a string that reads
 # "The quick red fox jumped over the lazy brown dog":
 speedy = "quick red fox"
 slow_poke = "lazy brown dog"
 
-p "The #{speedy} jumped over the #{slow_poke}"
+puts "The #{speedy} jumped over the #{slow_poke}"
 
 
 
@@ -24,7 +24,7 @@ p "The #{speedy} jumped over the #{slow_poke}"
 slow_poke = "tortoise"
 speedy = "hare"
 
-p "In a predictable result, the #{slow_poke} beat the #{speedy}!"
+puts "In a predictable result, the #{slow_poke} beat the #{speedy}!"
 
 
 # YOU DO:
@@ -33,4 +33,6 @@ concept = "interpolation"
 time = "noon"
 duration_min = 60
 
-p "You are scheduled to study #{concept} today at #{time} for #{duration_min} minutes!"
+puts "You are scheduled to study #{concept} today at #{time} for #{duration_min} minutes!"
+
+#Code has been refactored

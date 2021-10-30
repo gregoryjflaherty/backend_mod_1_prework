@@ -23,9 +23,9 @@
 `puts "The #{animal} escaped!"`
 
 
-3. What method is used to get input from a user?
+8. What method is used to get input from a user?
 * The method used to get user input is `gets.chomp`. This is can be assigned to a variable so that whatever input the user provides gets stored for later use (i.e. `name = gets.chomp`).
 
-4. Name and describe two common string methods:
-  1. Using the string method `.sub` appears like it would be common and useful. This enables you to substitute data in a string. The method requires an argument, the first one being the data to be replaced, the second is the data to be replaced with (i.e. `string.sub("old","new")`)
-  2. Another common string method is the split method (`string.split`). This method can break your string into segments. This method can be used with an argument or without an argument. If no argument is used, the method will by default split the string when it encounters a space (`" "`). Whatever character you put into the argument, will be what triggers the method to split your string.  
+9. Name and describe two common string methods:
+* Using the string method `.sub` appears like it would be common and useful. This enables you to substitute data in a string. The method requires an argument, the first one being the data to be replaced, the second is the data to be replaced with (i.e. `string.sub("old","new")`)
+* Another common string method is the split method (`string.split`). This method can break your string into segments. This method can be used with an argument or without an argument. If no argument is used, the method will by default split the string when it encounters a space (`" "`). Whatever character you put into the argument, will be what triggers the method to split your string.  

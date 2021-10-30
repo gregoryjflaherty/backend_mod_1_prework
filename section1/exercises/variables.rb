@@ -48,12 +48,11 @@ p number_of_pets
 # I chose to use a string value for my name because a string is a character of letters,
 # or a phrase. Names are only capable of being stored as strings. The 'is_hungry' variable
 # is generally a 'yes or no' question which can also be expressed as true or false. In ruby
-# this is called a boolean and can trigger other functions (such as if/esle) in Ruby when
-# stored as a boolean. I stored number_of_pets as a number (or integer) because the variable
-# name has 'number' included in it. It is conventional to have your variable names and its
-# data type/value match. It would be possible to store 1 as a string but limits how to use to data.
-# For example, if I got an additional pet, I could not just add 1 to the value if it was stored as
-# a string. I chose an integer over a floating point because a floating point includes decimals.
+# this is called a boolean and can trigger other functions (such as if/esle). I stored number_of_pets
+# as a number (or integer) because the name of the variable has 'number' included in it. It is conventional
+# to have your variable names and its data type/value match. It would be possible to store 1 as a string
+# but limits how to use to data. For example, if I got an additional pet, I could not just add 1 to the value
+# if it was stored as a string. I chose an integer over a floating point because a floating point includes decimals.
 # It is not really possibly to have a half or a third of a pet.
 
 
@@ -83,3 +82,5 @@ p healthy_snacks + junk_food_snacks
   # as you would expect?
 
   # Yes, everything ended up printing out the way I expected.
+
+  #Code has been refactored
