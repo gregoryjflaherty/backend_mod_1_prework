@@ -108,3 +108,5 @@ else
   is_healthy = true
 end
 super_bowl_bound(team, wins, is_healthy)
+
+#Code has been refactored

@@ -93,3 +93,5 @@ end
 # for the names of the parameters I chose. Choosing 'name' and 'location' made sense as they have a
 # strong representative of the arguments being passed. They also are short and concise, being that they
 # are only one word each.
+
+#Code has been refactored

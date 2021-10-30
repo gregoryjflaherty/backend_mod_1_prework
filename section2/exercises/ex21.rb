@@ -36,3 +36,5 @@ puts "Age: #{age}, Height: #{height}, Weight: #{weight}, IQ: #{iq}"
 puts "Here is a puzzle."
 what = add(age, subtract(height, multiply(weight, divide(iq, 2))))
 puts "That becomes: #{what}. Can you do it by hand?"
+
+#Code has been refactored

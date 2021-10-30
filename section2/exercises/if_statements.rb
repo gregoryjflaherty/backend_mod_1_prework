@@ -1,5 +1,5 @@
 
-# Inn the below exercises, write code that achieves
+# In the below exercises, write code that achieves
 # the desired result. To check your work, run this
 # file by entering the following command in your terminal:
 # `ruby section2/exercises/if_statements.rb`
@@ -71,3 +71,5 @@ if cups_of_flour >= 2 && has_sauce == true
 else
   puts "I cannot make a pizza"
 end
+
+#Code has been refactored

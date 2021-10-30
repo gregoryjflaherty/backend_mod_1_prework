@@ -41,3 +41,5 @@ calculator(34, "-", 35)
 calculator(9, "*", 9.0)
 calculator(42, "/", 7)
 calculator(10, "**", 10)
+
+#Code has been refactored 
