@@ -80,11 +80,17 @@ Depending on if you are in Section A or B, you have anywhere between 1.5-3.5 wee
 What is your plan and how are you going to hold yourself to it? Specifically...
 - What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
 - What days are you going to work?
+  - I plan on working daily. On Saturdays and Sundays my primary focus will be self care. I plan on working for 2 hours on Saturday and 2 hours on Sunday. Monday through Friday I plan on working for about 8 hours a day.
 - What times on those days are you going to work?
+  - On Monday through Friday I plan on working from 9-5 in 45 minute increments. I will take a 15 minute break after every 45 minutes.
 - Where you going to be sitting/standing as you do this?
+  - I will be doing this in my office space at home.
 - Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
+  - I will be utilizing a Google Calendar plus a whiteboard that I have posted in my office space. 
 - Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
+  - Yes! I have my family members and a mentor in my life who are 'in the loop' on this plan.
 - What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+  - Yes, I have dedicated the majority of my weekend to these events. Saturday evening and Sunday afternoon are my blocked out times to engage in self care.
 
 ## Extensions
 Check out our thoughts on [extension activities](https://mod0.turing.io/prework/extensions) if you find yourself with some extra time before starting Mod 1!
