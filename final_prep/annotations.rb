@@ -41,3 +41,5 @@ end #end of method
 
 fizzbuzz(3, 5, 100) #method being called with 3 required arguments specified
 fizzbuzz(5, 8, 400) #method being called with 3 required arguments specified
+
+#Code has been refactored

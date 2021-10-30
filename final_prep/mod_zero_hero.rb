@@ -156,7 +156,7 @@ super_dog = SuperHero.new("Jax", "has wings", 6)
 # What parts were most difficult about this exerise?
 # I would say the hardest part about this was going through and trying to complete the code under pressure. I tried to
 # complete in 30 minutes and at times felt like I was rushing. I did it in under 30 minutes although had to go back because
-# I made a few syntax errors. I do feel good about my the time it took as well as as little errors as I made. I will take a
+# I made a few syntax errors. I do feel good about my the time it took as well as the little amount of errors as I made. I will take a
 # a different approach and value punctuality over time in the future. I still feel like more practice for myself is needed in
 # regards to creating classes and objects. It took a second to recall some of the fine details of this syntax where the other
 # syntax was quite easy.
