@@ -7,7 +7,7 @@
   - I actually found this technique to be helpful because it focuses on one step at a time. It can be easy for myself to get caught in the illusion of an enormous mountain of work to conquer. By writing down one task to complete, the task at hand becomes doable. My mindset shifts into "Just complete this task. Focus on the next task when you get there". It's doing things one step at a time and I do great when I operate this way.
 
 3. In your own words, what is a Class?
-  - A class to me is similar to a prototype. It's a general outline of what an object will look like. Within the class, you set what attributes you want the object to have as well as what behaviors you want to the class to act on. When you are creating the class, the attributes are generic (i.e. 'name' vs assigning a specific name). It is basically saying this class will have a name, a location, a date of origin etc. You assign the specifics of these attributes when you create a specific instance of the class. You do the exact same for the behaviors. You set what behaviors this object can do. When you create an instance of the class, you can call that instance to do that specific behavior.
+  - A class to me is similar to a prototype. It's a general outline of what an object will look like. Within the class, you set what attributes you want the object to have as well as what behaviors you want to the class to act on (instance methods). When you are creating the class, the attributes are generic (i.e. 'name' vs assigning a specific name). It is basically saying this class will have a name, a location, a date of origin etc. You assign the specifics of these attributes when you create a specific instance of the class. You do the exact same for the behaviors. You set what behaviors this object can do. When you create an instance of the class, you can call that instance to do that specific behavior.
 
 4. What is an attribute of a Class?
   - An attribute of a class is a required data point that you want your future instances of the class to have. These data points, although can be changed, are required. An example would be a name, a gender, an age, etc. They essentially describe the specific instance.   
@@ -41,7 +41,7 @@ end
 ```
 
 7. How do you create an instance of a class?
-  - To create an instance of a class, you will create a new variable. That variable will be assigned to the name of the class, with `.new` following it. When doing this, you need to pass arguments. For the code above you would need to pass 3 arguments (name, breed, is_dirty) since these are the instance variables that are set in the class. Creating an instance of this class would look like this:
+  - To create an instance of a class, you will create a new variable. That variable will be assigned to the name of the class, with `.new` following it. When doing this, you may need to pass arguments. For the code above you would need to pass 3 arguments (name, breed, is_dirty) since these are the instance variables that are set in the class. Creating an instance of this class would look like this:
 ```ruby
 jax = Dog.new("Jax", "retriever", true)  
 ```
